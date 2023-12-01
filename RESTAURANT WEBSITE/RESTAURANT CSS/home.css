@@ -1,0 +1,68 @@
+body{
+    background-image: url(../Restaurant\ image/bg4.jpg);
+    background-size: cover;
+    
+    
+  }
+
+
+#headersection{
+    position: relative;
+}
+
+#sectionone{
+    position: absolute;
+    left:0px;
+    font-weight: bold;
+}
+
+#sectiontwo{
+    
+    position: absolute;
+    left: 170px;  
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#sectionthree{
+    
+  position: absolute;
+  left: 600px;  
+  font-weight: bold;
+  background-color: #7a706a;
+  padding: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 30px;
+  color: white;
+  word-spacing:30px ;
+  
+}
+
+
+#msgone{
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+  
+}
+
+#msgtwo{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+}
+
+#button{
+  background-color: rgb(184, 29, 29);
+  font-size: 20px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  padding: 15px;
+    color: #e4eaec;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: rgb(184, 29, 29);
+    border-radius: 4px;
+    font-size: 15px;
+  
+}
